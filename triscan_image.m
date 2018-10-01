@@ -1,6 +1,6 @@
 clear all;close all;
 image=imread('F:\cvcvideoclinicdbtestpart1\1_cropped_image\1-4.png');
-% z=input('Enter the z value:');
+% z=input('Enter the z value:'); test
 % alpha=input('Enter the alpha value:');
 % Beta=input('Enter the Beta value:');
 % sigma=input('Enter the sigma value:');
